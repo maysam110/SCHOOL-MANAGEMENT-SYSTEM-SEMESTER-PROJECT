@@ -1,7 +1,5 @@
 ---> important note: just extract the res zip where all files are. This is only designed for the system with resolution of 1920x1080.
 
-Absolutely! Here's a detailed breakdown and analysis of your School Management System (SMS) project, written in C++ with the `windows.h` library and dynamic `if-else` statements. I’ll go step-by-step through the major components and functionality to ensure a comprehensive understanding.
-
 ---
 
 ### **Project Overview**
